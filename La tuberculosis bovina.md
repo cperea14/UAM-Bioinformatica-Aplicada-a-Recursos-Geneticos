@@ -6,6 +6,8 @@ En el **Laboratorio de Salud Animal y Microbiología Ambiental** de la Facultad 
 
 Figura 1. *Mycobacterium bovis*
 
+*Mycobacterium bovis* pertenece al Complejo *Mycobacterium tuberculosis*, el cual es un grupo de  micobacterias que ocasionan tuberculosis. 
+
 Actualmente, la tuberculosis bovina es endémica en México y ocasiona grandes pérdidas al sector ganadero, además de que representa un riesgo importante a la salud pública. La infección por *M. bovis* en humanos se da mediante el consumo de productos lácteos no pasteurizados provenientes de animales tuberculosos.  
 
 ![](https://www.gob.mx/cms/uploads/image/file/341588/Situacion_Tuberculosis_octubre_2017.jpg)
