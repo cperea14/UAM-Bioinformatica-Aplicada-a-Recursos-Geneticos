@@ -2,11 +2,6 @@
 # *Mycobacterium bovis*
 
 En el **Laboratorio de Salud Animal y Microbiología Ambiental** de la Facultad de Ciencias Naturales de la **UAQ** trabajamos con la epidemiología molecular y genética de [*Mycobacterium bovis* (Fig.1)](https://foodpoisoningbulletin.com/wp-content/uploads/Tuberculosis-300x225.jpg "Mycobacterium bovis"), el cual es el agente causal de la tuberculosis bovina.
-=======
-# La tuberculosis bovina
-En el **Laboratorio de Salud Animal y Microbiología Ambiental** de la Facultad de Ciencias Naturales de la **UAQ** trabajamos con la epidemiología molecular y genética de
-[*Mycobacterium bovis* (Fig.1)](https://foodpoisoningbulletin.com/wp-content/uploads/Tuberculosis-300x225.jpg "Mycobacterium bovis"), el cual es el agente causal de la tuberculosis bovina.
-
 
 ![](https://foodpoisoningbulletin.com/wp-content/uploads/Tuberculosis-300x225.jpg "Mycobacterium bovis")
 
